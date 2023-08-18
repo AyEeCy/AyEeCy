@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "return_meetod", "return_meetod\return_meetod.csproj", "{47167631-4268-466E-88F2-FCECDE854DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47167631-4268-466E-88F2-FCECDE854DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47167631-4268-466E-88F2-FCECDE854DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47167631-4268-466E-88F2-FCECDE854DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47167631-4268-466E-88F2-FCECDE854DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1516FFE0-3184-4C21-ACEC-0E52D6F98FE5}
+	EndGlobalSection
+EndGlobal

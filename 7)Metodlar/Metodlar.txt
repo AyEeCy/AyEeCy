@@ -1,0 +1,10 @@
+--------------------------
+Metot>Komutları bir araya toplayan yapılar
+--------------------------
+Public
+Private
+--------------------------
+Geriye Değer Döndüren
+Geriye Değer Döndürmeyen
+--------------------------
+

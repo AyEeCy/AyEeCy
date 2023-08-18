@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\bin\Debug\return_meetod.exe.config
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\bin\Debug\return_meetod.exe
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\bin\Debug\return_meetod.pdb
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\obj\Debug\return_meetod.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\obj\Debug\return_meetod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\obj\Debug\return_meetod.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\obj\Debug\return_meetod.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\obj\Debug\return_meetod.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\obj\Debug\return_meetod.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\obj\Debug\return_meetod.exe
+C:\Users\Excalibur TR\Desktop\C#\return_meetod\return_meetod\obj\Debug\return_meetod.pdb

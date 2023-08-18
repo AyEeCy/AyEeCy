@@ -1,0 +1,8 @@
+C:\Users\Excalibur TR\Desktop\C#\metodlar ödev\metodlar ödev\bin\Debug\metodlar ödev.exe.config
+C:\Users\Excalibur TR\Desktop\C#\metodlar ödev\metodlar ödev\bin\Debug\metodlar ödev.exe
+C:\Users\Excalibur TR\Desktop\C#\metodlar ödev\metodlar ödev\bin\Debug\metodlar ödev.pdb
+C:\Users\Excalibur TR\Desktop\C#\metodlar ödev\metodlar ödev\obj\Debug\metodlar ödev.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\metodlar ödev\metodlar ödev\obj\Debug\metodlar ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\metodlar ödev\metodlar ödev\obj\Debug\metodlar ödev.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\metodlar ödev\metodlar ödev\obj\Debug\metodlar ödev.exe
+C:\Users\Excalibur TR\Desktop\C#\metodlar ödev\metodlar ödev\obj\Debug\metodlar ödev.pdb

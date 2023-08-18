@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\bin\Debug\KüpünAlanı.exe.config
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\bin\Debug\KüpünAlanı.exe
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\bin\Debug\KüpünAlanı.pdb
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\obj\Debug\KüpünAlanı.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\obj\Debug\KüpünAlanı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\obj\Debug\KüpünAlanı.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\obj\Debug\KüpünAlanı.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\obj\Debug\KüpünAlanı.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\obj\Debug\KüpünAlanı.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\obj\Debug\KüpünAlanı.exe
+C:\Users\Excalibur TR\Desktop\C#\KüpünAlanı\KüpünAlanı\obj\Debug\KüpünAlanı.pdb

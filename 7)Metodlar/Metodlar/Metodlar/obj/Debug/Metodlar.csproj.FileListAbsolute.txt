@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\obj\Debug\Metodlar.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\obj\Debug\Metodlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\obj\Debug\Metodlar.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\obj\Debug\Metodlar.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\obj\Debug\Metodlar.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\obj\Debug\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\bin\Debug\Metodlar.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\bin\Debug\Metodlar.exe
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\bin\Debug\Metodlar.pdb
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\obj\Debug\Metodlar.exe
+C:\Users\Excalibur TR\Desktop\C#\Metodlar\Metodlar\obj\Debug\Metodlar.pdb
