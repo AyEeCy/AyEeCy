@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\obj\Debug\Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\obj\Debug\Enum.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\obj\Debug\Enum.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\obj\Debug\Enum.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\Excalibur TR\Desktop\C#\Enum\Enum\obj\Debug\Enum.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinamikAraçlar", "DinamikAraçlar\DinamikAraçlar.csproj", "{DB460EB3-25D0-4B74-9D49-85B21461248A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB460EB3-25D0-4B74-9D49-85B21461248A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB460EB3-25D0-4B74-9D49-85B21461248A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB460EB3-25D0-4B74-9D49-85B21461248A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB460EB3-25D0-4B74-9D49-85B21461248A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77AB50F-BF90-4CDA-9709-E2A24FFA0E30}
+	EndGlobalSection
+EndGlobal

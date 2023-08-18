@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\bin\Debug\DinamikAraçlar.exe.config
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\bin\Debug\DinamikAraçlar.exe
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\bin\Debug\DinamikAraçlar.pdb
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\obj\Debug\DinamikAraçlar.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\obj\Debug\DinamikAraçlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\obj\Debug\DinamikAraçlar.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\obj\Debug\DinamikAraçlar.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\obj\Debug\DinamikAraçlar.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\obj\Debug\DinamikAraçlar.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\obj\Debug\DinamikAraçlar.exe
+C:\Users\Excalibur TR\Desktop\C#\DinamikAraçlar\DinamikAraçlar\obj\Debug\DinamikAraçlar.pdb

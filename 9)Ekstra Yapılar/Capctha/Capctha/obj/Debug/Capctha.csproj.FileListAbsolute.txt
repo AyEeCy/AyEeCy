@@ -1,0 +1,12 @@
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\bin\Debug\Capctha.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\bin\Debug\Capctha.exe
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\bin\Debug\Capctha.pdb
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\obj\Debug\Capctha.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\obj\Debug\Capctha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\obj\Debug\Capctha.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\obj\Debug\Capctha.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\obj\Debug\Capctha.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\obj\Debug\Capctha.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\obj\Debug\Capctha.exe
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\obj\Debug\Capctha.pdb
+C:\Users\Excalibur TR\Desktop\C#\Capctha\Capctha\obj\Debug\Capctha.Form2.resources
