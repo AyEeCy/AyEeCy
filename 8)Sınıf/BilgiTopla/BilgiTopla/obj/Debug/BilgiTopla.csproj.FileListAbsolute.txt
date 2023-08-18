@@ -1,0 +1,8 @@
+C:\Users\Excalibur TR\Desktop\C#\BilgiTopla\BilgiTopla\bin\Debug\BilgiTopla.exe.config
+C:\Users\Excalibur TR\Desktop\C#\BilgiTopla\BilgiTopla\bin\Debug\BilgiTopla.exe
+C:\Users\Excalibur TR\Desktop\C#\BilgiTopla\BilgiTopla\bin\Debug\BilgiTopla.pdb
+C:\Users\Excalibur TR\Desktop\C#\BilgiTopla\BilgiTopla\obj\Debug\BilgiTopla.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\BilgiTopla\BilgiTopla\obj\Debug\BilgiTopla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\BilgiTopla\BilgiTopla\obj\Debug\BilgiTopla.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\BilgiTopla\BilgiTopla\obj\Debug\BilgiTopla.exe
+C:\Users\Excalibur TR\Desktop\C#\BilgiTopla\BilgiTopla\obj\Debug\BilgiTopla.pdb

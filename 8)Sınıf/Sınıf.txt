@@ -1,0 +1,10 @@
+Sınıf
+-------------------------------
+Apartman --> Sınıf
+Daire --> Nesne
+-------------------------------
+Özellikleri
+*Renk
+*Kat
+*Fiyat
+*Oda Tipi
