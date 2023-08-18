@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\bin\Debug\Değişkenler.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\bin\Debug\Değişkenler.exe
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\bin\Debug\Değişkenler.pdb
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\obj\Debug\Değişkenler.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\obj\Debug\Değişkenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\obj\Debug\Değişkenler.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\obj\Debug\Değişkenler.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\obj\Debug\Değişkenler.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\obj\Debug\Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\obj\Debug\Değişkenler.exe
+C:\Users\Excalibur TR\Desktop\C#\Değişkenler\Değişkenler\obj\Debug\Değişkenler.pdb
