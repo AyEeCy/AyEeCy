@@ -1,0 +1,12 @@
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\bin\Debug\Formlar arası veri alışverişi.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\bin\Debug\Formlar arası veri alışverişi.exe
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\bin\Debug\Formlar arası veri alışverişi.pdb
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\obj\Debug\Formlar arası veri alışverişi.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\obj\Debug\Formlar arası veri alışverişi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\obj\Debug\Formlar_arası_veri_alışverişi.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\obj\Debug\Formlar_arası_veri_alışverişi.Form2.resources
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\obj\Debug\Formlar_arası_veri_alışverişi.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\obj\Debug\Formlar arası veri alışverişi.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\obj\Debug\Formlar arası veri alışverişi.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\obj\Debug\Formlar arası veri alışverişi.exe
+C:\Users\Excalibur TR\Desktop\C#\Formlar arası veri alışverişi\Formlar arası veri alışverişi\obj\Debug\Formlar arası veri alışverişi.pdb

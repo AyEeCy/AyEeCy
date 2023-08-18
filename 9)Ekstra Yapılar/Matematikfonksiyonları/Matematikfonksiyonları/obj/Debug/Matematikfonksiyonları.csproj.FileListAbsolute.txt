@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\bin\Debug\Matematikfonksiyonları.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\bin\Debug\Matematikfonksiyonları.exe
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\bin\Debug\Matematikfonksiyonları.pdb
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\obj\Debug\Matematikfonksiyonları.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\obj\Debug\Matematikfonksiyonları.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\obj\Debug\Matematikfonksiyonları.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\obj\Debug\Matematikfonksiyonları.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\obj\Debug\Matematikfonksiyonları.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\obj\Debug\Matematikfonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\obj\Debug\Matematikfonksiyonları.exe
+C:\Users\Excalibur TR\Desktop\C#\Matematikfonksiyonları\Matematikfonksiyonları\obj\Debug\Matematikfonksiyonları.pdb

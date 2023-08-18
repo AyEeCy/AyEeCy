@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\bin\Debug\PiyangoSistemi.exe.config
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\bin\Debug\PiyangoSistemi.exe
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\bin\Debug\PiyangoSistemi.pdb
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\obj\Debug\PiyangoSistemi.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\obj\Debug\PiyangoSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\obj\Debug\PiyangoSistemi.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\obj\Debug\PiyangoSistemi.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\obj\Debug\PiyangoSistemi.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\obj\Debug\PiyangoSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\obj\Debug\PiyangoSistemi.exe
+C:\Users\Excalibur TR\Desktop\C#\PiyangoSistemi\PiyangoSistemi\obj\Debug\PiyangoSistemi.pdb
