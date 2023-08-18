@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\bin\Debug\Contexmenüstrip.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\bin\Debug\Contexmenüstrip.exe
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\bin\Debug\Contexmenüstrip.pdb
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\obj\Debug\Contexmenüstrip.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\obj\Debug\Contexmenüstrip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\obj\Debug\Contexmenüstrip.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\obj\Debug\Contexmenüstrip.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\obj\Debug\Contexmenüstrip.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\obj\Debug\Contexmenüstrip.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\obj\Debug\Contexmenüstrip.exe
+C:\Users\Excalibur TR\Desktop\C#\Contexmenüstrip\Contexmenüstrip\obj\Debug\Contexmenüstrip.pdb
