@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\bin\Debug\MetinBelgesiOuşturma.exe.config
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\bin\Debug\MetinBelgesiOuşturma.exe
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\bin\Debug\MetinBelgesiOuşturma.pdb
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\obj\Debug\MetinBelgesiOuşturma.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\obj\Debug\MetinBelgesiOuşturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\obj\Debug\MetinBelgesiOuşturma.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\obj\Debug\MetinBelgesiOuşturma.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\obj\Debug\MetinBelgesiOuşturma.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\obj\Debug\MetinBelgesiOuşturma.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\obj\Debug\MetinBelgesiOuşturma.exe
+C:\Users\Excalibur TR\Desktop\C#\MetinBelgesiOuşturma\MetinBelgesiOuşturma\obj\Debug\MetinBelgesiOuşturma.pdb

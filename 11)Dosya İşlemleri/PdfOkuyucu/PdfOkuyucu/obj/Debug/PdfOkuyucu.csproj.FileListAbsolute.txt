@@ -1,0 +1,16 @@
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\bin\Debug\PdfOkuyucu.exe.config
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\bin\Debug\PdfOkuyucu.exe
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\bin\Debug\PdfOkuyucu.pdb
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\PdfOkuyucu.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\PdfOkuyucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\PdfOkuyucu.csproj.ResolveComReference.cache
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\PdfOkuyucu.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\PdfOkuyucu.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\PdfOkuyucu.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\PdfOkuyucu.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\PdfOkuyucu.exe
+C:\Users\Excalibur TR\Desktop\C#\PdfOkuyucu\PdfOkuyucu\obj\Debug\PdfOkuyucu.pdb
