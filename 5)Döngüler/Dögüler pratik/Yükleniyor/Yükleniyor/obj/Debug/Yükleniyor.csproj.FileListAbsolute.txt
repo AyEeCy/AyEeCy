@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\bin\Debug\Yükleniyor.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\bin\Debug\Yükleniyor.exe
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\bin\Debug\Yükleniyor.pdb
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\obj\Debug\Yükleniyor.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\obj\Debug\Yükleniyor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\obj\Debug\Yükleniyor.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\obj\Debug\Yükleniyor.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\obj\Debug\Yükleniyor.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\obj\Debug\Yükleniyor.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\obj\Debug\Yükleniyor.exe
+C:\Users\Excalibur TR\Desktop\C#\Yükleniyor\Yükleniyor\obj\Debug\Yükleniyor.pdb

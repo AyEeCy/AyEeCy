@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\bin\Debug\Trafik lambası.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\bin\Debug\Trafik lambası.exe
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\bin\Debug\Trafik lambası.pdb
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\obj\Debug\Trafik lambası.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\obj\Debug\Trafik lambası.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\obj\Debug\Trafik_lambası.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\obj\Debug\Trafik_lambası.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\obj\Debug\Trafik lambası.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\obj\Debug\Trafik lambası.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\obj\Debug\Trafik lambası.exe
+C:\Users\Excalibur TR\Desktop\C#\Trafik lambası\Trafik lambası\obj\Debug\Trafik lambası.pdb
