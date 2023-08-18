@@ -1,0 +1,2 @@
+StreamWrite = Dosya Oluşturuyor.
+StreamRead = Dosyaları okuyor veya arıyor.

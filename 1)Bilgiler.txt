@@ -1,0 +1,70 @@
+Değişkenler(Varible)
+--------------------------
+Ram
+--------------------------
+
+String(Alfabetik)
+İnt(Tam sayı)
+Double
+Char
+--------------------------
+Değşkentürü Değişkenadı
+--------------------------
+toint16 
+toint32
+toint64
+--------------------------
+Operatörler
+--------------------------
+= Atama 
++-*/ Aritmetik işlemler
+== Sorgulama(Eşit mi)
+>= Büyük eşit
+<= Küçük Eşit
+!= Eşit değilse
+&& Ve
+|| Veya
+% Mod(Kalan)
+--------------------------
+Döngüler
+--------------------------
+-For
+-While
+-Do/While
+-Foreach
+--------------------------
+For(1;2;3)
+1:Başlangıç
+2:Bitiş
+3:Artış/Azalış
+--------------------------
+While(şart)
+{
+işlem
+}
+--------------------------
+Do-While
+--------------------------
+Dizi
+--------------------------
+Birbiriyle ilişkili veriler kümesi
+
+Renkler= mavi,sarı,kırmızı,beyaz
+Çift Sayılar=2,4,6,8,10
+Kitaplar=Son Kuşlar,Beyaz Zambalar Ülkesi
+--------------------------
+index=sıra
+--------------------------
+bellek-->Ram
+--------------------------
+ilk index=0
+--------------------------
+[]
+--------------------------
+değişkentürü[]diziadı={};
+--------------------------
+foreach(1 2 3 4)
+1=Değişken Türü
+2=Değişken Adı
+3=in(içinden)
+4=Dizi Adı 

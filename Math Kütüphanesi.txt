@@ -1,0 +1,6 @@
+Abs = Mutlak
+Ceil = Üste Yuvarlamak
+Floor = Alta Yuvarlamak
+Pow = Üs Almak
+Sqrt = Kare Kök Almak
+19:34 11.08.2023
