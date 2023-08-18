@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\bin\Debug\Pointer.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\bin\Debug\Pointer.exe
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\bin\Debug\Pointer.pdb
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\obj\Debug\Pointer.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\obj\Debug\Pointer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\obj\Debug\Pointer.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\obj\Debug\Pointer.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\obj\Debug\Pointer.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\obj\Debug\Pointer.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\obj\Debug\Pointer.exe
+C:\Users\Excalibur TR\Desktop\C#\Pointer\Pointer\obj\Debug\Pointer.pdb

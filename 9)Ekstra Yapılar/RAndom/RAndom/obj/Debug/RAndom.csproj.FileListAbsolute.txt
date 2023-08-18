@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\bin\Debug\RAndom.exe.config
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\bin\Debug\RAndom.exe
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\bin\Debug\RAndom.pdb
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\obj\Debug\RAndom.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\obj\Debug\RAndom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\obj\Debug\RAndom.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\obj\Debug\RAndom.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\obj\Debug\RAndom.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\obj\Debug\RAndom.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\obj\Debug\RAndom.exe
+C:\Users\Excalibur TR\Desktop\C#\RAndom\RAndom\obj\Debug\RAndom.pdb
