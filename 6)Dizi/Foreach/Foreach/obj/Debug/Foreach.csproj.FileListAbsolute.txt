@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\Excalibur TR\Desktop\C#\Foreach\Foreach\obj\Debug\Foreach.pdb
