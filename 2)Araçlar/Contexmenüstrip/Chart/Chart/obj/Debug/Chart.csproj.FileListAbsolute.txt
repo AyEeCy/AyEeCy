@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\bin\Debug\Chart.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\bin\Debug\Chart.exe
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\bin\Debug\Chart.pdb
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\obj\Debug\Chart.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\obj\Debug\Chart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\obj\Debug\Chart.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\obj\Debug\Chart.exe
+C:\Users\Excalibur TR\Desktop\C#\Chart\Chart\obj\Debug\Chart.pdb
