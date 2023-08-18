@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\bin\Debug\Metin Belgesi Okuma.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\bin\Debug\Metin Belgesi Okuma.exe
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\bin\Debug\Metin Belgesi Okuma.pdb
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\obj\Debug\Metin Belgesi Okuma.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\obj\Debug\Metin Belgesi Okuma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\obj\Debug\Metin_Belgesi_Okuma.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\obj\Debug\Metin_Belgesi_Okuma.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\obj\Debug\Metin Belgesi Okuma.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\obj\Debug\Metin Belgesi Okuma.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\obj\Debug\Metin Belgesi Okuma.exe
+C:\Users\Excalibur TR\Desktop\C#\Metin Belgesi Okuma\Metin Belgesi Okuma\obj\Debug\Metin Belgesi Okuma.pdb

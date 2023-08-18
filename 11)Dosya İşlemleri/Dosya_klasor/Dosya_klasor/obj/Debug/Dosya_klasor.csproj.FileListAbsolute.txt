@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\bin\Debug\Dosya_klasor.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\bin\Debug\Dosya_klasor.exe
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\bin\Debug\Dosya_klasor.pdb
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\obj\Debug\Dosya_klasor.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\obj\Debug\Dosya_klasor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\obj\Debug\Dosya_klasor.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\obj\Debug\Dosya_klasor.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\obj\Debug\Dosya_klasor.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\obj\Debug\Dosya_klasor.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\obj\Debug\Dosya_klasor.exe
+C:\Users\Excalibur TR\Desktop\C#\Dosya_klasor\Dosya_klasor\obj\Debug\Dosya_klasor.pdb
