@@ -1,0 +1,6 @@
+C:\Users\Excalibur TR\Desktop\C#\Büfe\Büfe\obj\Debug\Büfe.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Büfe\Büfe\obj\Debug\Büfe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Büfe\Büfe\obj\Debug\Büfe.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Büfe\Büfe\obj\Debug\Büfe.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Büfe\Büfe\obj\Debug\Büfe.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Büfe\Büfe\obj\Debug\Büfe.csproj.CoreCompileInputs.cache
