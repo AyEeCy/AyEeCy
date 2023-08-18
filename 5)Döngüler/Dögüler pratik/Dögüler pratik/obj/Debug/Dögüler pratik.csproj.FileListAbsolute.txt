@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\bin\Debug\Dögüler pratik.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\bin\Debug\Dögüler pratik.exe
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\bin\Debug\Dögüler pratik.pdb
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\obj\Debug\Dögüler pratik.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\obj\Debug\Dögüler pratik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\obj\Debug\Dögüler_pratik.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\obj\Debug\Dögüler_pratik.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\obj\Debug\Dögüler pratik.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\obj\Debug\Dögüler pratik.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\obj\Debug\Dögüler pratik.exe
+C:\Users\Excalibur TR\Desktop\C#\Dögüler pratik\Dögüler pratik\obj\Debug\Dögüler pratik.pdb
