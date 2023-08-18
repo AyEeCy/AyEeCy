@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\bin\Debug\Sına vnotu hesaplama.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\bin\Debug\Sına vnotu hesaplama.exe
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\bin\Debug\Sına vnotu hesaplama.pdb
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\obj\Debug\Sına vnotu hesaplama.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\obj\Debug\Sına vnotu hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\obj\Debug\Sına_vnotu_hesaplama.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\obj\Debug\Sına_vnotu_hesaplama.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\obj\Debug\Sına vnotu hesaplama.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\obj\Debug\Sına vnotu hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\obj\Debug\Sına vnotu hesaplama.exe
+C:\Users\Excalibur TR\Desktop\C#\Sına vnotu hesaplama\Sına vnotu hesaplama\obj\Debug\Sına vnotu hesaplama.pdb

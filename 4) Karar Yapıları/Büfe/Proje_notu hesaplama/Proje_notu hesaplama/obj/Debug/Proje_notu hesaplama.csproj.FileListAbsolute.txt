@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\bin\Debug\Proje_notu hesaplama.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\bin\Debug\Proje_notu hesaplama.exe
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\bin\Debug\Proje_notu hesaplama.pdb
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\obj\Debug\Proje_notu hesaplama.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\obj\Debug\Proje_notu hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\obj\Debug\Proje_notu_hesaplama.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\obj\Debug\Proje_notu_hesaplama.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\obj\Debug\Proje_notu hesaplama.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\obj\Debug\Proje_notu hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\obj\Debug\Proje_notu hesaplama.exe
+C:\Users\Excalibur TR\Desktop\C#\Proje_notu hesaplama\Proje_notu hesaplama\obj\Debug\Proje_notu hesaplama.pdb

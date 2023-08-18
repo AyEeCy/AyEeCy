@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\bin\Debug\Mevsime göre ayları veren program.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\bin\Debug\Mevsime göre ayları veren program.exe
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\bin\Debug\Mevsime göre ayları veren program.pdb
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\obj\Debug\Mevsime göre ayları veren program.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\obj\Debug\Mevsime göre ayları veren program.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\obj\Debug\Mevsime_göre_ayları_veren_program.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\obj\Debug\Mevsime_göre_ayları_veren_program.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\obj\Debug\Mevsime göre ayları veren program.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\obj\Debug\Mevsime göre ayları veren program.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\obj\Debug\Mevsime göre ayları veren program.exe
+C:\Users\Excalibur TR\Desktop\C#\Mevsime göre ayları veren program\Mevsime göre ayları veren program\obj\Debug\Mevsime göre ayları veren program.pdb
