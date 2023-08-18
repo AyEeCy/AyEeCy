@@ -1,0 +1,15 @@
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\bin\Debug\PersonelKayıtSistemi.exe.config
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\bin\Debug\PersonelKayıtSistemi.exe
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\bin\Debug\PersonelKayıtSistemi.pdb
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.exe
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.pdb
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.İstatistik.resources
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.AnaForum.resources
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.Grafikler.resources
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.Giris_sayfasi.resources
+C:\Users\Excalibur TR\Desktop\C#\PersonelKayıtSistemi\PersonelKayıtSistemi\obj\Debug\PersonelKayıtSistemi.KayıtEkranı.resources
