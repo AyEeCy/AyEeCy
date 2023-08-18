@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\bin\Debug\dowhile.exe.config
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\bin\Debug\dowhile.exe
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\bin\Debug\dowhile.pdb
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\obj\Debug\dowhile.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\obj\Debug\dowhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\obj\Debug\dowhile.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\obj\Debug\dowhile.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\obj\Debug\dowhile.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\obj\Debug\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\obj\Debug\dowhile.exe
+C:\Users\Excalibur TR\Desktop\C#\dowhile\dowhile\obj\Debug\dowhile.pdb

@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\bin\Debug\Faktöriyel_hesaplama.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\bin\Debug\Faktöriyel_hesaplama.exe
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\bin\Debug\Faktöriyel_hesaplama.pdb
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\obj\Debug\Faktöriyel_hesaplama.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\obj\Debug\Faktöriyel_hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\obj\Debug\Faktöriyel_hesaplama.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\obj\Debug\Faktöriyel_hesaplama.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\obj\Debug\Faktöriyel_hesaplama.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\obj\Debug\Faktöriyel_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\obj\Debug\Faktöriyel_hesaplama.exe
+C:\Users\Excalibur TR\Desktop\C#\Faktöriyel_hesaplama\Faktöriyel_hesaplama\obj\Debug\Faktöriyel_hesaplama.pdb

@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\bin\Debug\saar.exe.config
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\bin\Debug\saar.exe
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\bin\Debug\saar.pdb
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\obj\Debug\saar.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\obj\Debug\saar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\obj\Debug\saar.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\obj\Debug\saar.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\obj\Debug\saar.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\obj\Debug\saar.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\obj\Debug\saar.exe
+C:\Users\Excalibur TR\Desktop\C#\saar\saar\obj\Debug\saar.pdb
