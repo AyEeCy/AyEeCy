@@ -1,0 +1,8 @@
+C:\Users\Excalibur TR\Desktop\C#\faktoriyel hesapla int\faktoriyel hesapla int\bin\Debug\faktoriyel hesapla int.exe.config
+C:\Users\Excalibur TR\Desktop\C#\faktoriyel hesapla int\faktoriyel hesapla int\bin\Debug\faktoriyel hesapla int.exe
+C:\Users\Excalibur TR\Desktop\C#\faktoriyel hesapla int\faktoriyel hesapla int\bin\Debug\faktoriyel hesapla int.pdb
+C:\Users\Excalibur TR\Desktop\C#\faktoriyel hesapla int\faktoriyel hesapla int\obj\Debug\faktoriyel hesapla int.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\faktoriyel hesapla int\faktoriyel hesapla int\obj\Debug\faktoriyel hesapla int.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\faktoriyel hesapla int\faktoriyel hesapla int\obj\Debug\faktoriyel hesapla int.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\faktoriyel hesapla int\faktoriyel hesapla int\obj\Debug\faktoriyel hesapla int.exe
+C:\Users\Excalibur TR\Desktop\C#\faktoriyel hesapla int\faktoriyel hesapla int\obj\Debug\faktoriyel hesapla int.pdb
