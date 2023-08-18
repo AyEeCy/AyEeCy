@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\obj\Debug\Hesap makinas.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\obj\Debug\Hesap makinas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\obj\Debug\Hesap_makinas.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\obj\Debug\Hesap_makinas.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\obj\Debug\Hesap makinas.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\obj\Debug\Hesap makinas.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\bin\Debug\Hesap makinas.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\bin\Debug\Hesap makinas.exe
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\bin\Debug\Hesap makinas.pdb
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\obj\Debug\Hesap makinas.exe
+C:\Users\Excalibur TR\Desktop\C#\Hesap makinas\Hesap makinas\obj\Debug\Hesap makinas.pdb

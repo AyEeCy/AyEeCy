@@ -1,0 +1,22 @@
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\bin\Debug\Karar_Yapıları.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\bin\Debug\Karar_Yapıları.exe
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\bin\Debug\Karar_Yapıları.pdb
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.exe
+C:\Users\Excalibur TR\Desktop\C#\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.pdb
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\bin\Debug\Karar_Yapıları.exe.config
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\bin\Debug\Karar_Yapıları.exe
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\bin\Debug\Karar_Yapıları.pdb
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.exe
+C:\Users\Excalibur TR\Desktop\C#\4)Karar Yapıları\Karar_Yapıları\Karar_Yapıları\obj\Debug\Karar_Yapıları.pdb

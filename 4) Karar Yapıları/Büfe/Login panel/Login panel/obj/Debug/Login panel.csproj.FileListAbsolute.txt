@@ -1,0 +1,11 @@
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\bin\Debug\Login panel.exe.config
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\bin\Debug\Login panel.exe
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\bin\Debug\Login panel.pdb
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\obj\Debug\Login panel.csproj.AssemblyReference.cache
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\obj\Debug\Login panel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\obj\Debug\Login_panel.Form1.resources
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\obj\Debug\Login_panel.Properties.Resources.resources
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\obj\Debug\Login panel.csproj.GenerateResource.cache
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\obj\Debug\Login panel.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\obj\Debug\Login panel.exe
+C:\Users\Excalibur TR\Desktop\C#\Login panel\Login panel\obj\Debug\Login panel.pdb
